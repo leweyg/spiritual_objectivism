@@ -2,6 +2,10 @@
 
 Spiritual Objectivism joins the discipline of reason with the practice of attunement, projecting the chaos of incomplete impressions through the ancient and numerical archetypes of mysticism, then refining those approximations to bring body and mind into closer alignment with objective truth.
 
+By [Lewey Geselowitz](https://lewcid.com/lg/aboutme.html), Techno-Hierophant
+
+<small>© 2026. All rights reserved, usage as AI Skill allowed.</small>
+
 <details><summary>Note: The views here are my own.</summary>
 *Note.* The views here are my own, but are drawn from my professional 3D interface and spiritual experience. I speak neither for *Microsoft* where my spiritual awakening began while working on the patent for Excel in 3D and felt my body *click* how to think in volumetric cells of energy. 
 Nor do I speak for Yogiraj Satgurunath Siddhanath, who energetically initiated me into the chakra and spinal breathing practices of Kriya Yoga and whose soul-cry forms the basis for the principals described below. 
@@ -9,11 +13,7 @@ Nor for *Lucasfilm/ILM* where I tuned immersive VR experiences for viscerally sp
 Nor for *Tesla* or Elon Musk, for whom I worked on the in-car display of how autopilot percieves the space around it, and was inspired by auric perception particularly for the distance estimating park assist feature. Nor for *Foxglove*, where I currently help visualize how networks of robots perceive their internal and external semantic/archtypal state.
 Nor, of course, do I speak for Ayn Rand, whose novels and philosophy provided a unified foundation to my life but who spoke strongly against the use of mystical metaphors, in the spirit of seeking reason in all matters. 
 I’m grateful for and thank them for what each has taught me, having found deep peace and careful power in their synthesis, and wish the same for you.
-</details><br/>
-
-By [Lewey Geselowitz](https://lewcid.com/lg/aboutme.html), Techno-Hierophant
-
-<small>© 2026. All rights reserved, usage as AI Skill allowed.</small>
+</details>
 
 ## Contents
 
