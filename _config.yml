@@ -1,0 +1,7 @@
+defaults:
+  - scope:
+      path: ""
+    values:
+      image:
+        path: https://leweyg.github.io/temple_world/content/images/spiritual_objectivist_temple_v0.5.jpg
+        alt: Spiritual Objectivist Temple
