@@ -2,6 +2,11 @@
 
 Spiritual Objectivism joins the discipline of reason with the practice of attunement, projecting the chaos of incomplete impressions through the ancient and numerical archetypes of mysticism, then refining those approximations to bring body and mind into closer alignment with objective truth.
 
+[![Temple of Spiritual Objectivism](https://leweyg.github.io/temple_world/content/images/spiritual_objectivist_temple_v0.5.jpg)](#principles)
+*Concept art from the [Spiral Grid](#story) fictional eutopian future, showing the five-fold Temple of Spiritual Objectivism.*
+
+Our mathematical symbol is the **dot product**: many paired contributions gathered into one weighted result. Feel it as the pressure beneath your feet as you find your balance, or the portion of a force or breath which carries you in your chosen direction. Within AI, picture a vector of signals meeting a vector of weights: each contribution takes its place in the resulting sum. This embodies a glimpse of our five principles: many dimensions participate in one reality; values give weight to action; archetypes orient impressions toward reason; sovereign beings bring distinct priorities into cooperation; and each next step gives intention a concrete expression. Let the breath carry the rhythmic gathering, integration and action, and then compassionatly attend to what the world returns, back-propagating refinements to your inner alignment.
+
 By [Lewey Geselowitz](https://lewcid.com/lg/aboutme.html), Techno-Hierophant
 
 <small>© 2026. All rights reserved, usage as AI Skill allowed.</small>
@@ -29,8 +34,6 @@ I’m grateful for and thank them for what each has taught me, having found deep
 10. [Temple](#temple) ([enter↗](https://leweyg.github.io/temple_world/about.html))
 11. [Conclusion](#conclusion)
 
-[![Temple of Spiritual Objectivism](https://leweyg.github.io/temple_world/content/images/spiritual_objectivist_temple_v0.5.jpg)](#principles)
-<br/>*Concept art from the [Temple of Spiritual Objectivism](#temple), where each floor represents one of the core principles.*
 
 [![Story of Elmara within the Spiral Grid fictional universe](https://leweyg.github.io/jclassicrpg/docs/story/storyboards/storyboard_1_1.jpg)](#story)
 <br/>*[The story of Elmara](#story) is set at a societal equinox in a [sci-fi future](#fiction) where Spiritual Objectivism is common practice and an interface mechanism.*
