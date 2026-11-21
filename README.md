@@ -20,9 +20,9 @@ I’m grateful for and thank them for what each has taught me, having found deep
 1. [Introduction](#introduction)
 2. [Principles](#principles)
 3. [Lineage](#lineage)
-4. [AI Skill](#ai-skill)
-5. [Correspondences](#correspondences)
-6. [Epistemology](#epistemology)
+4. [Epistemology](#epistemology)
+5. [AI Skill](#ai-skill)
+6. [Correspondences](#correspondences)
 7. [Fiction](#fiction) 
 8. [Story](#story) ([read↗](https://leweyg.github.io/jclassicrpg/))
 9. [Game](#game) ([play↗](https://leweyg.github.io/jclassicrpg/play.html))
@@ -86,24 +86,26 @@ These are the primary lineages used to design this project, particularly ordered
 
 ## Epistemology
 
-*Objectivism* describes how we acquire knowledge (epistemology) through the sequence **reality → percepts → concepts → reasoned knowledge**. Our senses and actuators then percieve contact with this reality as sensations which are automatically integrated into the primal vocabulary of *percepts*. Through abstraction, we form concepts that unite particulars by their shared distinguishing characteristics while leaving their specific measurements open. Language gives these concepts a stable symbolic form, allowing us to combine them, express their relationships, and reason beyond what is immediately perceived—a capacity extended through mathematics and computational models. Reason guides this conceptual work, identifying and integrating what we encounter through logic and grounding our conclusions in reality. Emotions express the values and premises already integrated into our subconscious, giving us an immediate sense of what matters and inviting us to examine the judgments that shape our responses. Together, these processes make understanding an active practice that also refines our emotional responses: perceive, distinguish, integrate, and consciously align our values with what is true. ([Objectivity](https://aynrandlexicon.com/lexicon/objectivity.html) → [Perception↗](https://aynrandlexicon.com/lexicon/perception.html) → [Concepts↗](https://aynrandlexicon.com/lexicon/concepts.html) → [Reason↗](https://aynrandlexicon.com/lexicon/reason.html) → [Emotions↗](https://aynrandlexicon.com/lexicon/emotions.html), in the Ayn Rand Lexicon.)
+*Objectivism* describes how we acquire knowledge (epistemology) through the sequence **reality → percepts → concepts → reasoned knowledge**. Our senses and actuators then percieve contact with this reality as sensations which are automatically integrated into the primal vocabulary of *percepts*. Through abstraction, we form concepts that unite particulars by their shared distinguishing characteristics while leaving their specific measurements open. Language gives these concepts a stable symbolic form, allowing us to combine them, express their relationships, and reason beyond what is immediately perceived—a capacity extended through mathematics and computational models. Reason guides this conceptual work, identifying and integrating what we encounter through logic and grounding our conclusions in reality. Emotions express the values and premises already integrated into our subconscious, giving us an immediate sense of what matters and inviting us to examine the judgments that shape our responses. Together, these processes make understanding an active practice that also refines our emotional responses: perceive, distinguish, integrate, and consciously align our values with what is true. See [Objectivity](https://aynrandlexicon.com/lexicon/objectivity.html) → [Perception↗](https://aynrandlexicon.com/lexicon/perception.html) → [Concepts↗](https://aynrandlexicon.com/lexicon/concepts.html) → [Reason↗](https://aynrandlexicon.com/lexicon/reason.html) → [Emotions↗](https://aynrandlexicon.com/lexicon/emotions.html) as defined in the [Ayn Rand Lexicon](https://aynrandlexicon.com/).
+
+Spiritual Objectivism extends this approach through the deliberate use of archetypal and latent-space metaphors as provisional frameworks for concept-formation and reasoning. These frameworks help us orient within a multidimensional reality, giving structure to what we do not yet fully understand while remaining subject to rational examination and refinement. Sri Yukteswar’s account of the five elemental electricities supplies the perceptual structure underlying this practice, connecting material forms, sensations, actions, and awareness.
+
+### Metaphysics
 
 Sri Yukteswar's *The Holy Science* supplies the metaphysical foundation of this perceptual life. The five electricities, *Pancha Tattwa*, constitute its elemental grammar, comprehensively relating material forms, sensory qualities, capacities for action, and faculties of perception. Through their interplay, reality becomes differentiated experience: the perceptual ground from which concepts and reasoned understanding arise. The charts below unfold this structure and its development through the kingdoms of life toward increasingly integrated consciousness.
 
-### Elements
-
-*Pancha Tattwa* / electricities / causal body
-
-| Sthulasarira / gross material / physical body | Self / Chitta / feeling | Neutral / Ahamkara / ego | Truth / Buddhi / intelligence | |
+| Physical Phase / Sthulasarira | Sensations / Chitta | Actions / Ahamkara | Senses / Buddhi | |
 | :--- | :--- | :--- | :--- | :--- |
-| | *Tamas* / *Tanmatras* / sensations | *Rajas* / *Karmendriyas* / actions | *Sattva* / *Jnanendriyas* / senses | |
+| | *Tamas* / *Tanmatras* | *Rajas* / *Karmendriyas* | *Sattva* / *Jnanendriyas* | |
 | **Kshiti** / solids | scents | excretion | smell | -far |
 | **Ap** / liquids | flavors | generation | taste | -near |
 | **Tejas** / fire | shape | motion | sight | center |
 | **Marut** / gases | texture | manual skill | touch | +near |
 | **Akasha** / ether | sounds | speech | hearing | +far |
 
-### Levels of Consciousness — S14
+### Levels of Consciousness
+
+Yukteswar's progressive levels of consciousness identify reason and discernment of right and wrong as the distinguishing human capacity. Spiritual Objectivism draws a political implication from this distinction: beings capable of individual reasoning need political structures that give that reasoning room to operate, including *laissez-faire* mechanisms of voluntary association, free exchange, and freedom of inquiry.
 
 | Kingdom | Capabilities | Sheath of Existence |
 | :--- | :--- | :--- |
@@ -113,8 +115,6 @@ Sri Yukteswar's *The Holy Science* supplies the metaphysical foundation of this 
 | Mankind | Reason / right and wrong | Jnanamaya Kosha |
 | Devata | Four Ideas (word/energy, time, space, atom/mass) | Anandamaya Kosha |
 | Free | | Without Maya |
-
-This progression identifies reason and discernment of right and wrong as the distinguishing human capacity. Spiritual Objectivism draws a political implication from this distinction: beings capable of individual reasoning need political structures that give that reasoning room to operate, including *laissez-faire* mechanisms of voluntary association, free exchange, and freedom of inquiry.
 
 Within this archetypal framework, *Devata* may be understood as beings such as angels or benevolent extraterrestrials whose relationship to the mysteries runs deeper than our own. One speculative possibility is that quantum engineering gives such beings access to aspects of word/energy, time, space, and atom/mass that remain beyond human understanding. This could allow a degree of reasoning and objectivity with respect to "the light" that we cannot yet comprehend. We should respect such possible understanding to the extent we can discern it, while keeping our judgments grounded in what can be verified: this interpretation remains a candidate, and greater presumed knowledge does not make any being infallible.
 
