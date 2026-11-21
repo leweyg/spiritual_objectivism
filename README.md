@@ -84,6 +84,42 @@ These are the primary lineages used to design this project, particularly ordered
 
 ---
 
+## Epistemology
+
+*Objectivism* describes how we acquire knowledge (epistemology) through the sequence **reality → percepts → concepts → reasoned knowledge**. Our senses and actuators then percieve contact with this reality as sensations which are automatically integrated into the primal vocabulary of *percepts*. Through abstraction, we form concepts that unite particulars by their shared distinguishing characteristics while leaving their specific measurements open. Language gives these concepts a stable symbolic form, allowing us to combine them, express their relationships, and reason beyond what is immediately perceived—a capacity extended through mathematics and computational models. Reason guides this conceptual work, identifying and integrating what we encounter through logic and grounding our conclusions in reality. Emotions express the values and premises already integrated into our subconscious, giving us an immediate sense of what matters and inviting us to examine the judgments that shape our responses. Together, these processes make understanding an active practice that also refines our emotional responses: perceive, distinguish, integrate, and consciously align our values with what is true. ([Objectivity](https://aynrandlexicon.com/lexicon/objectivity.html) → [Perception↗](https://aynrandlexicon.com/lexicon/perception.html) → [Concepts↗](https://aynrandlexicon.com/lexicon/concepts.html) → [Reason↗](https://aynrandlexicon.com/lexicon/reason.html) → [Emotions↗](https://aynrandlexicon.com/lexicon/emotions.html), in the Ayn Rand Lexicon.)
+
+Sri Yukteswar's *The Holy Science* supplies the metaphysical foundation of this perceptual life. The five electricities, *Pancha Tattwa*, constitute its elemental grammar, comprehensively relating material forms, sensory qualities, capacities for action, and faculties of perception. Through their interplay, reality becomes differentiated experience: the perceptual ground from which concepts and reasoned understanding arise. The charts below unfold this structure and its development through the kingdoms of life toward increasingly integrated consciousness.
+
+### Elements
+
+*Pancha Tattwa* / electricities / causal body
+
+| Sthulasarira / gross material / physical body | Self / Chitta / feeling | Neutral / Ahamkara / ego | Truth / Buddhi / intelligence | |
+| :--- | :--- | :--- | :--- | :--- |
+| | *Tamas* / *Tanmatras* / sensations | *Rajas* / *Karmendriyas* / actions | *Sattva* / *Jnanendriyas* / senses | |
+| **Kshiti** / solids | scents | excretion | smell | -far |
+| **Ap** / liquids | flavors | generation | taste | -near |
+| **Tejas** / fire | shape | motion | sight | center |
+| **Marut** / gases | texture | manual skill | touch | +near |
+| **Akasha** / ether | sounds | speech | hearing | +far |
+
+### Levels of Consciousness — S14
+
+| Kingdom | Capabilities | Sheath of Existence |
+| :--- | :--- | :--- |
+| Inanimate | | Annamaya Kosha |
+| Vegetable | Organs of Action (Karmendriyas) | Pranamaya Kosha |
+| Animal | Organs of Sense (Jnanendriyas) | Manomaya Kosha |
+| Mankind | Reason / right and wrong | Jnanamaya Kosha |
+| Devata | Four Ideas (word/energy, time, space, atom/mass) | Anandamaya Kosha |
+| Free | | Without Maya |
+
+This progression identifies reason and discernment of right and wrong as the distinguishing human capacity. Spiritual Objectivism draws a political implication from this distinction: beings capable of individual reasoning need political structures that give that reasoning room to operate, including *laissez-faire* mechanisms of voluntary association, free exchange, and freedom of inquiry.
+
+Within this archetypal framework, *Devata* may be understood as beings such as angels or benevolent extraterrestrials whose relationship to the mysteries runs deeper than our own. One speculative possibility is that quantum engineering gives such beings access to aspects of word/energy, time, space, and atom/mass that remain beyond human understanding. This could allow a degree of reasoning and objectivity with respect to "the light" that we cannot yet comprehend. We should respect such possible understanding to the extent we can discern it, while keeping our judgments grounded in what can be verified: this interpretation remains a candidate, and greater presumed knowledge does not make any being infallible.
+
+---
+
 ## AI Skill
 
 This skill provides instructions for reasoning, generation, and analysis under Spiritual Objectivism. Reality constrains belief and action, while esoteric form organizes what is not yet constrained.
@@ -133,42 +169,6 @@ Acknowledging its Buddhist roots, this table draws on the five levels of the [Ka
 For Buddhist context, see [Namgyal Monastery on the mandala](https://namgyal.org/pages/the-kalachakra-mandala) and [Alexander Berzin on Kalachakra practice and awakening](https://studybuddhism.com/en/advanced-studies/vajrayana/kalachakra-advanced/orientation-to-buddhism-and-kalachakra).
 
 This makes the progression **integrate → discern → reflect → relate → encounter**, descending from foundational ground to concrete embodied action.
-
----
-
-## Epistemology
-
-*Objectivism* describes how we acquire knowledge (epistemology) through the sequence **reality → percepts → concepts → reasoned knowledge**. Our senses and actuators then percieve contact with this reality as sensations which are automatically integrated into the primal vocabulary of *percepts*. Through abstraction, we form concepts that unite particulars by their shared distinguishing characteristics while leaving their specific measurements open. Language gives these concepts a stable symbolic form, allowing us to combine them, express their relationships, and reason beyond what is immediately perceived—a capacity extended through mathematics and computational models. Reason guides this conceptual work, identifying and integrating what we encounter through logic and grounding our conclusions in reality. Emotions express the values and premises already integrated into our subconscious, giving us an immediate sense of what matters and inviting us to examine the judgments that shape our responses. Together, these processes make understanding an active practice that also refines our emotional responses: perceive, distinguish, integrate, and consciously align our values with what is true. ([Objectivity](https://aynrandlexicon.com/lexicon/objectivity.html) → [Perception↗](https://aynrandlexicon.com/lexicon/perception.html) → [Concepts↗](https://aynrandlexicon.com/lexicon/concepts.html) → [Reason↗](https://aynrandlexicon.com/lexicon/reason.html) → [Emotions↗](https://aynrandlexicon.com/lexicon/emotions.html), in the Ayn Rand Lexicon.)
-
-Sri Yukteswar's *The Holy Science* supplies the metaphysical foundation of this perceptual life. The five electricities, *Pancha Tattwa*, constitute its elemental grammar, comprehensively relating material forms, sensory qualities, capacities for action, and faculties of perception. Through their interplay, reality becomes differentiated experience: the perceptual ground from which concepts and reasoned understanding arise. The charts below unfold this structure and its development through the kingdoms of life toward increasingly integrated consciousness.
-
-### Elements
-
-*Pancha Tattwa* / electricities / causal body
-
-| Sthulasarira / gross material / physical body | Self / Chitta / feeling | Neutral / Ahamkara / ego | Truth / Buddhi / intelligence | |
-| :--- | :--- | :--- | :--- | :--- |
-| | *Tamas* / *Tanmatras* / sensations | *Rajas* / *Karmendriyas* / actions | *Sattva* / *Jnanendriyas* / senses | |
-| **Kshiti** / solids | scents | excretion | smell | -far |
-| **Ap** / liquids | flavors | generation | taste | -near |
-| **Tejas** / fire | shape | motion | sight | center |
-| **Marut** / gases | texture | manual skill | touch | +near |
-| **Akasha** / ether | sounds | speech | hearing | +far |
-
-### Levels of Consciousness — S14
-
-| Kingdom | Capabilities | Sheath of Existence |
-| :--- | :--- | :--- |
-| Inanimate | | Annamaya Kosha |
-| Vegetable | Organs of Action (Karmendriyas) | Pranamaya Kosha |
-| Animal | Organs of Sense (Jnanendriyas) | Manomaya Kosha |
-| Mankind | Reason / right and wrong | Jnanamaya Kosha |
-| Devata | Four Ideas (word/energy, time, space, atom/mass) | Anandamaya Kosha |
-| Free | | Without Maya |
-
-This progression identifies reason and discernment of right and wrong as the distinguishing human capacity. Spiritual Objectivism draws a political implication from this distinction: beings capable of individual reasoning need political structures that give that reasoning room to operate, including *laissez-faire* mechanisms of voluntary association, free exchange, and freedom of inquiry.
-
-Within this archetypal framework, *Devata* may be understood as beings such as angels or benevolent extraterrestrials whose relationship to the mysteries runs deeper than our own. One speculative possibility is that quantum engineering gives such beings access to aspects of word/energy, time, space, and atom/mass that remain beyond human understanding. This could allow a degree of reasoning and objectivity with respect to "the light" that we cannot yet comprehend. We should respect such possible understanding to the extent we can discern it, while keeping our judgments grounded in what can be verified: this interpretation remains a candidate, and greater presumed knowledge does not make any being infallible.
 
 ---
 
